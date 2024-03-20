@@ -2,4 +2,6 @@
 
 Mi nombre es Hugo Perez y esta es una tarea para MasterMind
 
+Dia 2:
 
+Este es mi segundo commit, estoy emocionado por aprender en este curso
