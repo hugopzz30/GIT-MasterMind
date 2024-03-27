@@ -56,3 +56,7 @@ const getBlogContent = async () => {
 }
 
 getBlogContent();
+
+const loadAdds = () => {
+  console.log("Ads loaded")
+}
